@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    -"articles": [
+    -{
+    -"source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Mary Ann Azevedo",
+    "title": "Better.com loses more senior execs as employees brace for another mass layoff",
+    "description": "Things are getting worse at Better. More executives have resigned from Better.com nearly three months after the online mortgage lender laid off 900 employees via Zoom and as the company prepares for more layoffs, according to multiple sources familiar with th…",
+    "url": "https://techcrunch.com/2022/02/18/better-com-loses-more-senior-execs-as-employees-brace-for-another-mass-layoff/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/12/down-3765608_1280.jpg?w=675",
+    "publishedAt": "2022-02-19T00:40:16Z",
+    "content": "Things are getting worse at Better.\r\nMore executives have resigned from Better.com nearly three months after the online mortgage lender laid off 900 employees via Zoom and as the company prepares for… [+3068 chars]"
+    },
+    -{
+    -"source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Miranda Halpern",
+    "title": "Experts Weekly: Recruiting recruiters, crypto marketing, earned media 101",
+    "description": "Do you have recent experience recruiting talent for pre-revenue startups? If this describes you — or someone you know — please read our important announcement.",
+    "url": "https://techcrunch.com/2022/02/18/experts-weekly-recruiting-recruiters-crypto-marketing-earned-media-101/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1144864948.jpg?w=600",
+    "publishedAt": "2022-02-18T23:24:16Z",
+    "content": "Do you have recent experience recruiting talent for pre-revenue startups?\r\nIf this describes you or someone you know please read this important announcement.\r\nGrowth marketing\r\n(TechCrunch+) Create a… [+948 chars]"
+    },
+    -{
+    -"source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Alex Wilhelm",
+    "title": "Daily Crunch: Meta fires executive after 'predator catchers' interview video goes viral",
+    "description": "Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+    "url": "https://techcrunch.com/2022/02/18/daily-crunch-meta-fires-executive-after-predator-catchers-interview-video-goes-viral/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1368412925.jpg?w=608",
+    "publishedAt": "2022-02-18T23:15:44Z",
+    "content": "To get a roundup of TechCrunchs biggest and most important stories delivered to your inbox every day at 3 p.m. PST, subscribe here.\r\nHello and welcome to Daily Crunch for Friday, February 18, 2022! F… [+5566 chars]"
+    },
+    -{
+    -"source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Matt Burns",
+    "title": "Agility Robotics and Playground Global join TechCrunch Live to speak on fundraising robotic delivery",
+    "description": "Delivery has become one of the fastest growing verticals for robotics investments amid pandemic-related shutdowns. There’s been plenty of interest in the category over the years, but Covid-19 has accelerated interest on all sides of the equation. Among this c…",
+    "url": "https://techcrunch.com/2022/02/18/agility-robotics-and-playground-global-join-techcrunch-live-to-speak-on-fundraising-robotic-delivery/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/TCL-2022-03-02-featured-1920x1080-1.jpg?w=711",
+    "publishedAt": "2022-02-18T21:40:17Z",
+    "content": "Delivery has become one of the fastest growing verticals for robotics investments amid pandemic-related shutdowns. Theres been plenty of interest in the category over the years, but Covid-19 has acce… [+1076 chars]"
+    },
+    -{
+    -"source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Walter Thompson, Ram Iyer",
+    "title": "TechCrunch+ roundup: Fintech investor survey, data-driven fundraising, VC scouting jobs",
+    "description": "The public markets may have cooled on fintechs in recent months, but for entrepreneurs who are still considering starting up, “outlook good,” says the Magic 8 Ball.",
+    "url": "https://techcrunch.com/2022/02/18/techcrunch-roundup-fintech-investor-survey-data-driven-fundraising-vc-scouting-jobs/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/ragnar-vorel-LEi6wr_HzyA-unsplash.jpg?w=601",
+    "publishedAt": "2022-02-18T21:14:45Z",
+    "content": "The public markets may have cooled on fintechs in recent months, but for entrepreneurs who are still considering starting up, outlook good, says the Magic 8 Ball.\r\nIn 2021, one-third of all unicorns … [+8984 chars]"
+    },
+    -{
+    -"source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Haje Jan Kamps",
+    "title": "LG announces the first 50 participants in its LG Nova program",
+    "description": "LG’s innovation center — LG Nova among friends — today announced that it has selected the first 50 companies for its Mission for the Future global challenge competition. From 1,300 applicants, the company picked its first cohort to start building opportunitie…",
+    "url": "https://techcrunch.com/2022/02/18/lg-nova-first-50/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/Companies-in-g-nova.jpeg?w=764",
+    "publishedAt": "2022-02-18T20:35:35Z",
+    "content": "LG’s innovation center — LG Nova among friends — today announced that it has selected the first 50 companies for its Mission for the Future global challenge competition. From 1,300 applicants, the co… [+9030 chars]"
+    },
+    -{
+    -"source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Brian Heater",
+    "title": "Goodbye Samsung Galaxy Note, hello S22 Ultra",
+    "description": "I fully confess I was a skeptic when Samsung unveiled the first Note. And I certainly wasn’t alone among the crowd at the Messe Berlin that IFA. The 5.3-inch display was unimaginably large in a year when the average screen measured a hair over 3.5 inches. The…",
+    "url": "https://techcrunch.com/2022/02/18/goodbye-samsung-galaxy-note-hello-s22-ultra/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/CMC_0820.jpg?w=600",
+    "publishedAt": "2022-02-18T20:04:59Z",
+    "content": "I fully confess I was a skeptic when Samsung unveiled the first Note. And I certainly wasnt alone among the crowd at the Messe Berlin that IFA. The 5.3-inch display was unimaginably large in a year w… [+12233 chars]"
+    },
+    -{
+    -"source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Matt Burns",
+    "title": "DeepScribe's Akilesh Bapu and Index Venture's Nina Achadjian to speak on founder/investor relationships on TCL",
+    "description": "DeepScribe is used by more than 400 physicians and just raised $30 million to reach even more. The company’s AI-powered platform helps doctors keep better notes by automatically transcribing conversations with patients. To expand its market and reach more doc…",
+    "url": "https://techcrunch.com/2022/02/18/deepscribes-akilesh-bapu-and-index-ventures-nina-achadjian-to-speak-on-founder-investor-relationships-on-tcl/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/01/TCL-2022-february-23-1.jpg?w=711",
+    "publishedAt": "2022-02-18T19:45:46Z",
+    "content": "DeepScribe is used by more than 400 physicians and just raised $30 million to reach even more. The company’s AI-powered platform helps doctors keep better notes by automatically transcribing conversa… [+1362 chars]"
+    },
+    -{
+    -"source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Haje Jan Kamps",
+    "title": "Reusable packaging startup bags $3.1M to pick a fight with single-use packaging",
+    "description": "Quick pop quiz: Is it better to recycle your cardboard boxes, or use a sturdier packaging bag that can be used again and again until it meets its maker again? Returnity‘s bet is the latter, and the company just raised $3.1 million from Brand Foundry Ventures …",
+    "url": "https://techcrunch.com/2022/02/18/returnity-seed-round/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/Rent-the-Runway-Image-8-e1645202681998.jpeg?w=709",
+    "publishedAt": "2022-02-18T19:19:51Z",
+    "content": "Quick pop quiz: Is it better to recycle your cardboard boxes, or use a sturdier packaging bag that can be used again and again until it meets its maker again? Returnity‘s bet is the latter, and the c… [+4546 chars]"
+    },
+    -{
+    -"source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kris Holt",
+    "title": "Extreme H is an upcoming off-road racing series with hydrogen cars",
+    "description": "An off-road racing series that uses hydrogen cars is expected to debut in 2024. Extreme H will be a companion championship to Extreme E, an off-road EV motorsport that held its first race last year.",
+    "url": "https://techcrunch.com/2022/02/18/extreme-h-is-an-upcoming-off-road-racing-series-with-hydrogen-cars/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/FL4_WbKXMAEckTs.jpeg?w=715",
+    "publishedAt": "2022-02-18T19:06:47Z",
+    "content": "An off-road racing series that uses hydrogen cars is expected to debut in 2024. Extreme H will be a companion championship to Extreme E, an off-road motorsport with electric vehicles that held its fi… [+869 chars]"
+    }
+    ]
+    }
